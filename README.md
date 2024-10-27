@@ -1,4 +1,4 @@
-Hello! Im Kauã welcome my GitHub!👋
+Olá! Meu nome é Kauã e seja bem vindo ao meu GitHub!👋
 
 <a href="https://github.com/KauaB66/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KauaB66" />
