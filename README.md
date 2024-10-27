@@ -1,16 +1,31 @@
-## Hi there 👋
+Hello! Im Kauã welcome my GitHub!👋
 
-<!--
-**KauaB66/KauaB66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+•🌱 Estudando: Java.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/KauaB66/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KauaB66" />
+</a>
+<a href="https://github.com/KauaB66/convoychat">
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KauaB66&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kaua-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Kaua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kaua-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+  ##
+ 📫Formas de contato!
+<div> 
+  <a href="https://instagram.com/kaua.b66" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatokauabarbosasa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kauã-barbosa-santos-oliveira-6b57742b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+![Snake animation](https://github.com/KauaB66/KauaB66/blob/output/github-contribuition-grid-snake.svg)
+
